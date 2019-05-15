@@ -1,90 +1,200 @@
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\ApplicationInsights.config
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\csc.exe
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\vbc.exe
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\MVCProject.dll.config
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\MVCProject.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\MVCProject.pdb
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\EntityFramework.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.Agent.Intercept.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.DependencyCollector.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.PerfCounterCollector.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.Web.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.WindowsServer.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.ApplicationInsights.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Owin.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Net.Http.Formatting.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Helpers.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Http.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Http.Owin.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Http.WebHost.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Mvc.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Optimization.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Razor.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\WebGrease.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.DependencyCollector.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.Web.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.WindowsServer.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.ApplicationInsights.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Net.Http.Formatting.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Helpers.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Http.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Http.WebHost.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Mvc.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Optimization.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Razor.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\EntityFramework.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Http.Owin.xml
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\obj\Debug\MVCProject.dll
-c:\users\extcanerb\Documents\Visual Studio 2015\Projects\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/ApplicationInsights.config
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/csc.exe
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/Microsoft.CSharp.Core.targets
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/System.Collections.Immutable.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/System.Reflection.Metadata.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/vbc.exe
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/VBCSCompiler.exe
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/roslyn/VBCSCompiler.exe.config
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/MVCProject.dll.config
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/MVCProject.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/MVCProject.pdb
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Antlr3.Runtime.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/EntityFramework.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/EntityFramework.SqlServer.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.Agent.Intercept.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.DependencyCollector.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.PerfCounterCollector.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.ServerTelemetryChannel.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.Web.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.WindowsServer.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.ApplicationInsights.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AspNet.Identity.Core.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AspNet.Identity.Owin.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Host.SystemWeb.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.Cookies.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.Facebook.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.Google.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.OAuth.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.Twitter.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Web.Infrastructure.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Newtonsoft.Json.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Owin.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Net.Http.Formatting.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Helpers.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Http.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Http.Owin.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Http.WebHost.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Mvc.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Optimization.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Razor.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.WebPages.Deployment.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.WebPages.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.WebPages.Razor.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/WebGrease.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.DependencyCollector.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.ServerTelemetryChannel.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.Web.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AI.WindowsServer.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.ApplicationInsights.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Newtonsoft.Json.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Net.Http.Formatting.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Helpers.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Http.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Http.WebHost.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Mvc.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Optimization.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Razor.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.WebPages.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.WebPages.Deployment.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.WebPages.Razor.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Antlr3.Runtime.pdb
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/EntityFramework.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/EntityFramework.SqlServer.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AspNet.Identity.Core.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AspNet.Identity.Owin.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Host.SystemWeb.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.Facebook.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.Cookies.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.OAuth.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.Google.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.Twitter.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/bin/System.Web.Http.Owin.xml
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/obj/Debug/MVCProject.csprojResolveAssemblyReference.cache
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/obj/Debug/MVCProject.dll
+c:/users/extcanerb/Documents/Visual Studio 2015/Projects/MVCProject/MVCProject/obj/Debug/MVCProject.pdb
+/Users/sahabt/Desktop/mvcRepo/MVCProject/obj/Debug/MVCProject.csprojAssemblyReference.cache
+/Users/sahabt/Desktop/mvcRepo/MVCProject/obj/Debug/MVCProject.csproj.CoreCompileInputs.cache
+/Users/sahabt/Desktop/mvcRepo/MVCProject/obj/Debug/MVCProject.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/obj/Debug/MVCProject.pdb
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/ApplicationInsights.config
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/MVCProject.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/MVCProject.pdb
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/csc.exe
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/csc.exe.config
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/csc.rsp
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/csi.exe
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/csi.rsp
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/System.AppContext.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/System.Collections.Immutable.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/System.IO.FileSystem.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/System.Reflection.Metadata.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/vbc.exe
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/vbc.exe.config
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/vbc.rsp
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/VBCSCompiler.exe
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/roslyn/VBCSCompiler.exe.config
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Antlr3.Runtime.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/EntityFramework.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/EntityFramework.SqlServer.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.DependencyCollector.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.Web.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.WindowsServer.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.ApplicationInsights.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AspNet.Identity.Core.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AspNet.Identity.Owin.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Host.SystemWeb.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.Cookies.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.Facebook.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.Google.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.OAuth.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.Twitter.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Web.Infrastructure.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Newtonsoft.Json.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Owin.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Net.Http.Formatting.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Helpers.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Http.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Http.Owin.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Http.WebHost.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Mvc.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Optimization.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Razor.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.WebPages.Deployment.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.WebPages.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.WebPages.Razor.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/WebGrease.dll
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Optimization.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Antlr3.Runtime.pdb
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/EntityFramework.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/EntityFramework.SqlServer.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AspNet.Identity.Core.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Razor.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Helpers.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.WebPages.Deployment.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.WebPages.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.WebPages.Razor.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Mvc.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Newtonsoft.Json.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Net.Http.Formatting.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Http.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Http.WebHost.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Web.Http.Owin.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Host.SystemWeb.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.Cookies.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.Facebook.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.Google.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.OAuth.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AspNet.Identity.Owin.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.Owin.Security.Twitter.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.ApplicationInsights.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.DependencyCollector.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.PerfCounterCollector.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.ServerTelemetryChannel.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.WindowsServer.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/bin/Microsoft.AI.Web.xml
+/Users/sahabt/Desktop/mvcRepo/MVCProject/obj/Debug/MVCProject.csproj.CopyComplete
